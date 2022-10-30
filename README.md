@@ -30,7 +30,17 @@ To view the allure report on browser, run the command => allure serve .\allure-r
 
 --------------------------------------------------------------------------------------------------
 
+Select a Test :
+
+Hub88 GUI test : Tests\\searchGameTest.js
+Hub88 API test : hub88RestApiTests\\restapitest.js
+
+Define the API or GUI test in conf.js
+![image](https://user-images.githubusercontent.com/20240930/198893328-ead217e4-713e-4f7c-9e3f-19a50c0dd212.png)
+
+
 Folder structure :
+
 UI Test -->
         Pages
         Testdata
