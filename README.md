@@ -27,3 +27,23 @@ If you need to view in browser opened mode, remove the following headless option
         
 Step 4:
 To view the allure report on browser, run the command => allure serve .\allure-results\
+
+--------------------------------------------------------------------------------------------------
+
+Folder structure :
+UI Test -->
+        Pages
+        Testdata
+        Test
+        (Allure report , Screeshot, Libraries)
+API Test -->
+        hub88RestApiTest
+conf.js
+.gitignore
+
+![image](https://user-images.githubusercontent.com/20240930/198892467-e51f0e84-47bf-4226-894f-33680f24e32b.png)
+
+View the allure report :
+
+![image](https://user-images.githubusercontent.com/20240930/198892685-b1f24405-454f-422b-a946-89911e01f4cb.png)
+
