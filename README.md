@@ -8,10 +8,10 @@ How To Run ==> Hub88_Yolo_Test
 
 Step 1:
 
-Install NodeJs, https://nodejs.org/en/download/
-Make dir called "Hub88_Yolo_Test" in C:\ drive - Get into the folder
-Install Protractor globally with command: npm install -g protractor
-Update web driver with command - webdriver-manager update
+        Install NodeJs, https://nodejs.org/en/download/
+        Make dir called "Hub88_Yolo_Test" in C:\ drive - Get into the folder
+        Install Protractor globally with command: npm install -g protractor
+        Update web driver with command : webdriver-manager update
 (If needed, start the command webdriver-manager start then open this local URL http://localhost:4444/wd/hub in browser to make sure protractor up and running)
 
 Step 2:
