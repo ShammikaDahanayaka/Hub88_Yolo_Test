@@ -1,4 +1,8 @@
-# Hub88_Yolo_Test
+
+# Hub88_Yolo_Test : https://hub88.io/suppliers
+
+I have used Protractor Javascript, Jasmin framework for the task developmemnt. 
+Protractor is built on top of WebDriverJS, which uses native events and browser-specific drivers to interact with your application as a user would.
 
 How To Run ==> Hub88_Yolo_Test
 
@@ -30,7 +34,17 @@ To view the allure report on browser, run the command => allure serve .\allure-r
 
 --------------------------------------------------------------------------------------------------
 
+Select a Test :
+
+Hub88 GUI test : Tests\\searchGameTest.js
+Hub88 API test : hub88RestApiTests\\restapitest.js
+
+Define the API or GUI test in conf.js
+![image](https://user-images.githubusercontent.com/20240930/198893328-ead217e4-713e-4f7c-9e3f-19a50c0dd212.png)
+
+
 Folder structure :
+
 UI Test -->
         Pages
         Testdata
